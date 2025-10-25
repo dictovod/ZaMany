@@ -1,0 +1,2 @@
+# ZaMany
+ZaMany API
