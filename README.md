@@ -69,3 +69,5 @@ curl -X GET "http://138.124.35.201/wp-json/zamany/v1/response?id=11&tron_wallet_
 3. GET /response → ответ.
 
 Prefix по умолчанию: "Сформулируй в стиле мистического предсказания одним предложением...".
+
+[![Демо ZaMany API](https://img.youtube.com/vi/ehBIAnUO-oo/0.jpg)](https://youtu.be/ehBIAnUO-oo)
